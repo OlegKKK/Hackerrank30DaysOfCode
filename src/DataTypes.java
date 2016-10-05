@@ -24,7 +24,6 @@ public class DataTypes {
         scan.nextLine();
         z = scan.nextLine();
         System.out.println(s+z);
-
         scan.close();
     }
 }
