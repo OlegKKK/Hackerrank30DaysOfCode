@@ -1,6 +1,6 @@
 //Day 1: Data Types
 
-import java.util.*;
+import java.util.Scanner;
 
 public class DataTypes {
 
