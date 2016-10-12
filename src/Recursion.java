@@ -1,6 +1,7 @@
 //Day 9: Recursion
 
 import java.util.Scanner;
+
 public class Recursion {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
