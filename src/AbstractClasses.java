@@ -26,7 +26,7 @@ class MyBook extends Book {
         System.out.println("Title: " + title + "\nAuthor: " + author + "\nPrice: " + price);
     }
 }
-public class Solution
+public class AbstractClasses
 {
     public static void main(String []args)
         {
