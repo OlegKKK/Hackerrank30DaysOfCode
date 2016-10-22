@@ -60,7 +60,5 @@ class Solution {
         System.out.println("Grade: " + s.calculate());
     }
 
-    public void pushCharacter(char c) {
 
-    }
 }
