@@ -59,4 +59,8 @@ class Solution {
         s.printInheritance();
         System.out.println("Grade: " + s.calculate());
     }
+
+    public void pushCharacter(char c) {
+
+    }
 }
